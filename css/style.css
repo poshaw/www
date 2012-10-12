@@ -1,0 +1,6 @@
+@CHARSET "utf-8";
+
+#div1 {
+	text-shadow:0px -2px 2px orange;
+	font-size: 24px;
+}
